@@ -1,7 +1,0 @@
-Hello Devops Class
-123
-456
-789
-order of local numbers
-
-Local Repo 2
